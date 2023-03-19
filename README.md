@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raunak Singh Jolly
 - 🎓 NIT Srinagar CSE Undergraduate (2023)
-- 🧑‍💼 Backend Intern at Oriserve
+- 🧑‍💼 Backend Intern at Oriserve.com
 - 🧑‍💻 Ex-Frontend Intern at Xivtech.io
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN Stack.
