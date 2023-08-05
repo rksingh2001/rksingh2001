@@ -3,6 +3,6 @@
 - 🧑‍💼 Backend Intern at Oriserve.com
 - 🧑‍💻 Ex-Frontend Intern at Xivtech.io
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently working on scribbli.
 - 💞️ I’m looking to collaborate on any Web related projects
 - 📫 Email : rksj2001@gmail.com
