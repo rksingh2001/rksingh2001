@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Raunak Singh Jolly
-- 🎓 NIT Srinagar CSE Undergraduate (2023)
 - 🧑‍💼 SDE at Oriserve.com
 - 🧑‍💻 Ex-Frontend Intern at Xivtech.io
-- 👀 I’m interested in web development
-- 🌱 I’m currently working on scribbli.
+- 🎓 NIT Srinagar CSE Undergraduate (2023)
+- 🌱 I’m currently learning elixir.
 - 💞️ I’m looking to collaborate on any Web related projects
 - 📫 Email : rksj2001@gmail.com
