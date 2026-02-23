@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raunak Singh Jolly
-- 🧑‍💼 SDE at Browserstack
-- 🧑‍💻 Ex: Oriserve, Xivtech.io
+- 🧑‍💼 SE at VirushAI
+- 🧑‍💻 Ex: Browserstack, Oriserve, Xivtech.io
 - 🎓 NIT Srinagar CSE (2023)
 - 📫 Email : rksj2001@gmail.com
